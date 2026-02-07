@@ -474,6 +474,7 @@ function extractDetailDataFromRow(row) {
     };
 }
 
+
 // Hàm cập nhật nội dung DOM
 function updateElement(elementId, value) {
     const element = document.getElementById(elementId);
